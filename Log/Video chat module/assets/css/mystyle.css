@@ -1,0 +1,26 @@
+.signup{
+    background: #ECEAEA;
+    border-bottom-right-radius: 50px;
+}
+
+.container{
+    margin-top: 50px !important;
+}
+
+.right-corner{
+    border-bottom-right-radius: 70px;
+    background: white;
+}
+.my-text{
+    padding: 10px;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.signUp{
+    margin-top: 25px !important;
+    border-bottom: 3px solid greenyellow;
+}
+.signUp:hover{
+    border-bottom-color: green;
+    transition: 1s linear;
+}
